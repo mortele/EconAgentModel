@@ -11,4 +11,5 @@ SOURCES += main.cpp \
 HEADERS += \
     agent.h \
     market.h \
-    system.h
+    system.h \
+    RandomNumberGenerator/random.h
